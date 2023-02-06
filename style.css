@@ -1,0 +1,6 @@
+.cuadricula {
+  diaplay: flex;
+  flex-wrap: wrap;
+  width: 400px;
+  heigth: 300px;
+}
